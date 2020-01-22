@@ -1,12 +1,4 @@
-# JULIA-v1.3.1
-               _
-   _       _ _(_)_     
-  (_)     | (_) (_)    
-   _ _   _| |_  __ _   
-  | | | | | | |/ _` |  
-  | | |_| | | | (_| |  
- _/ |\__'_|_|_|\__'_|  
-|__/                   
+# JULIA-v1.3.1                  
 Julia is a new homoiconic functional language focused on technical computing. 
 While having the full power of homoiconic macros, first-class functions, and low-level control, Julia is as easy to learn and use as Python.
 I have created some study materials for you which can be downloaded or give the mail id of yours and i will send the notes for SURE!
